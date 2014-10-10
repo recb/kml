@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GIN0047.kml</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff004ce6</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00107">
+		<name>GIN0047</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GIN0047</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>DD_TMX</td>
+
+<td>SUR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TMX</td>
+
+<td>MERIDA</td>
+
+</tr>
+
+<tr>
+
+<td>EDO</td>
+
+<td>Yucatán</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUN</td>
+
+<td>Mérida</td>
+
+</tr>
+
+<tr>
+
+<td>LOC</td>
+
+<td>Mérida</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CVE_INEG</td>
+
+<td>310500001</td>
+
+</tr>
+
+<tr>
+
+<td>DISTRITO</td>
+
+<td>GIN0047</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CENTRAL</td>
+
+<td>GINERES</td>
+
+</tr>
+
+<tr>
+
+<td>SIG_CTL</td>
+
+<td>GIN</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle00</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-89.62467961199997,20.99397328700007,0 -89.62530458499998,20.99317105000006,0 -89.62519601699995,20.99308746700007,0 -89.62529582099995,20.99293457100004,0 -89.62503040299998,20.99275783600007,0 -89.62499483199997,20.99281240800008,0 -89.62478762199999,20.99266908700002,0 -89.62469149699996,20.99278203000006,0 -89.62424780899994,20.99248153400004,0 -89.62413191999997,20.99261008300005,0 -89.62390809399994,20.99244819800003,0 -89.62388164499998,20.99246899800005,0 -89.62371329799998,20.99236908300003,0 -89.62377647299996,20.99228224000007,0 -89.62365963999997,20.99222102300007,0 -89.62373642899996,20.99211798400006,0 -89.62313213299996,20.99170098600007,0 -89.62316876299997,20.99163493500004,0 -89.62292937099994,20.99144309900004,0 -89.62256737199994,20.99185061700007,0 -89.62261072299998,20.99191160100003,0 -89.62255633799998,20.99197038100004,0 -89.62248786399994,20.99198212000005,0 -89.62251673999998,20.99213390400007,0 -89.62203173799998,20.99220823700006,0 -89.62213002799996,20.99294119200005,0 -89.62085868199995,20.99313457800002,0 -89.62086600399994,20.99316877600006,0 -89.62086750099996,20.99320304700007,0 -89.62086423999995,20.99323738700002,0 -89.62084328799995,20.99330270800004,0 -89.62082655499995,20.99333276600004,0 -89.62077839299997,20.99338504000008,0 -89.62115281699994,20.99557598800004,0 -89.62121091899996,20.99560948500005,0 -89.62127403599999,20.99565486500006,0 -89.62130299899997,20.99578571200004,0 -89.62256828899996,20.99562779900003,0 -89.62256966599995,20.99562863900007,0 -89.62256881299999,20.99562210400006,0 -89.62306496999997,20.99555313700006,0 -89.62311644799996,20.99545960600005,0 -89.62343598699994,20.99531308900004,0 -89.62345875699998,20.99533224100003,0 -89.62380132099997,20.99513577800008,0 -89.62374837499999,20.99504523800005,0 -89.62387122799999,20.99497480800005,0 -89.62394580599994,20.99509579100004,0 -89.62430864999999,20.99487811700004,0 -89.62407200399997,20.99445638500004,0 -89.62439163599998,20.99430987300008,0 -89.62466830499994,20.99396444600006,0 -89.62467961199997,20.99397328700007,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
