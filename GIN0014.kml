@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GIN0014.kml</name>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff004ce6</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00100">
+		<name>GIN0014</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GIN0014</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>DD_TMX</td>
+
+<td>SUR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AREA_TMX</td>
+
+<td>MERIDA</td>
+
+</tr>
+
+<tr>
+
+<td>EDO</td>
+
+<td>Yucatán</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>MUN</td>
+
+<td>Mérida</td>
+
+</tr>
+
+<tr>
+
+<td>LOC</td>
+
+<td>Mérida</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CVE_INEG</td>
+
+<td>310500001</td>
+
+</tr>
+
+<tr>
+
+<td>DISTRITO</td>
+
+<td>GIN0014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CENTRAL</td>
+
+<td>GINERES</td>
+
+</tr>
+
+<tr>
+
+<td>SIG_CTL</td>
+
+<td>GIN</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#PolyStyle00</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-89.62910364099997,20.99376518200006,0 -89.62866485399997,20.99344397000004,0 -89.62860942299994,20.99351414200004,0 -89.62817942399994,20.99319755800008,0 -89.62821905799996,20.99316626300004,0 -89.62805280399994,20.99304357500006,0 -89.62812958999996,20.99294053300002,0 -89.62826744199998,20.99277351500007,0 -89.62795246199994,20.99260423400006,0 -89.62788886099997,20.99269678100006,0 -89.62743451599994,20.99237821800006,0 -89.62740553299994,20.99242758900004,0 -89.62696446999996,20.99209853800005,0 -89.62703810099998,20.99202975400004,0 -89.62661312599994,20.99172504800004,0 -89.62648352999997,20.99186978700004,0 -89.62636168999995,20.99179660000004,0 -89.62610427099997,20.99213211900008,0 -89.62606946199998,20.99211208000003,0 -89.62549258899998,20.99285857900003,0 -89.62553250099995,20.99289059800003,0 -89.62540151999997,20.99311563400005,0 -89.62535501199994,20.99308890800006,0 -89.62530458499998,20.99317105000006,0 -89.62467961199997,20.99397328700007,0 -89.62479965099999,20.99406709100003,0 -89.62495982999997,20.99418938100007,0 -89.62484184199997,20.99434070900003,0 -89.62503129199996,20.99447685000007,0 -89.62507856299999,20.99442896500005,0 -89.62531504599997,20.99458613900004,0 -89.62529265099994,20.99463030700002,0 -89.62556298199996,20.99481900600006,0 -89.62592923299997,20.99509599700008,0 -89.62597545499995,20.99505950100007,0 -89.62636801199994,20.99535410800007,0 -89.62637107299997,20.99535035000002,0 -89.62712583199999,20.99590385800008,0 -89.62721096699994,20.99579967300002,0 -89.62741255199995,20.99594308100006,0 -89.62771568899996,20.99557448100006,0 -89.62773783899996,20.99559932000005,0 -89.62829891199999,20.99489168800005,0 -89.62824896899997,20.99483590700004,0 -89.62883375999996,20.99413602800007,0 -89.62910364099997,20.99376518200006,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
